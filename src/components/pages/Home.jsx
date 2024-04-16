@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <img
-        src='\assets\Screenshot 2024-04-02 114209.png' 
+        src='\assets\LOGO.JPG' 
         alt="Bootstrap Image"
         className="img-fluid rounded mx-auto d-block mb-4"
       />
@@ -18,7 +18,7 @@ With a range of cutting-edge equipment and personalized tanning sessions, we ens
 
 Experience the ultimate tanning journey with Sun Glow. Discover the difference of professional service, premium equipment, and unparalleled results. Start your journey to a sun-kissed glow today with Sun Glow Tanning Beds."
       </p>
-      <img src="../assets/prices.png" alt="price list"  className="img-fluid rounded mx-auto d-block mb-4"/>
+      <img src="../assets/prices.JPG" alt="price list"  className="img-fluid rounded mx-auto d-block mb-4"/>
     </div>
   );
 }
